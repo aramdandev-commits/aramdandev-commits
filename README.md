@@ -57,15 +57,11 @@ Welcome to my GitHub! I'm a passionate backend developer with a strong focus on 
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/abdulrahman" target="_blank">
+  <a href="https://www.linkedin.com/in/abdulrahman-ramdan-hussien/" target="_blank">
     <img src="https://github.com/user-attachments/assets/6f82d3b6-ddc2-472e-809b-4e9764b30096"
  alt="LinkedIn" height="50" style="fill:#0077B5; margin: 0 10px;"/>
   </a>
-  <a href="https://wa.me/201029121638" target="_blank">
-    <img src="https://github.com/user-attachments/assets/d5e43f63-c200-4b01-8d6f-bb9cb7493b46" 
- alt="WhatsApp" height="50" style="fill:#25D366; margin: 0 10px;"/>
-  </a>
-  <a href="mailto:abdulrahman.dev@gmail.com" target="_blank">
+  <a href="mailto:aramdan.dev@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="50" style="margin: 0 10px;"/>
   </a>
 </p>
