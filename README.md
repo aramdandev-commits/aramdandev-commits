@@ -19,14 +19,12 @@ Welcome to my GitHub! I'm a passionate backend developer with a strong focus on 
 - 🎓 Software Engineering student with a strong foundation in computer science fundamentals  
 - 💻 Specializing in **Java Backend Development** using **Spring Boot**  
 - 🔧 Experienced with:
-  - Java & Spring Boot  
-  - RESTful APIs & JSON  
-  - MySQL & PostgreSQL  
+  - Java 
+  - JSON  
+  - MySQL 
   - Git & GitHub (Version Control & Collaboration)  
-  - Maven & Gradle (Build Tools)  
-- 💡 Solid foundation in **Object-Oriented Programming (OOP)** and **Data Structures**  
-- 🌱 Currently learning **Microservices Architecture** and **Cloud Deployment**  
-- 🤖 Interested in integrating **AI tools** to enhance backend productivity  
+- 💡 Solid foundation in **Object-Oriented Programming (OOP)** , **Data Structures** and ** Design Patterns** 
+- 🌱 Currently learning **Back-end Consepts and OOPA&D** 
 
     </td>
     <td align="right" width="5%">
@@ -41,15 +39,9 @@ Welcome to my GitHub! I'm a passionate backend developer with a strong focus on 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white" alt="Maven"/>
-  <img src="https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white" alt="Gradle"/>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/REST%20API-FF6F00?logo=java&logoColor=white" alt="REST API"/>
-  <img src="https://img.shields.io/badge/AI%20Tools-00B4D8?logo=openai&logoColor=white" alt="AI Tools"/>
 </p>
 
 ---
