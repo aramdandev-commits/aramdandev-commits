@@ -5,7 +5,7 @@
 <h2 align="center">👋 Welcome to Abdulrahman Ramdan's Profile!</h2>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=007396&center=true&vCenter=true&width=480&lines=☕+Junior+Java+Backend+Developer;💻+Software+Engineering+Student;🚀+Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=007396&center=true&vCenter=true&width=480&lines=☕+Junior+Java+Backend+Developer;💻+Software+Engineering+Student;🚀+Lifelong+Learner" alt="Typing SVG" />
 </h3>
 
 ---
